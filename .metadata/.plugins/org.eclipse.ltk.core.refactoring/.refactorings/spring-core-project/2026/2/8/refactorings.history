@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-core-project/src/main/resources/Collection.xml&apos; to &apos;collection.xml&apos;" description="Rename resource &apos;Collection.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/Collection.xml" name="collection.xml" stamp="1771309853594" updateReferences="true"/>
+</session>
